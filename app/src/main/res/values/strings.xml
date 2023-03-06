@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimekuTv</string>
+    <string name="anime_name">nama anime</string>
+    <string name="rating">rating</string>
+    <string name="episodes">24 episode</string>
+    <string name="description">Deskripsi anime</string>
+    <string name="Sinposis">Sinopsis :</string>
+    <string name="about">About</string>
+    <string name="tv_about_name">Wildan Asyrof Dewayana</string>
+    <string name="tv_about_email">asyrof.wildan@gmail.com</string>
+    <string name="streaming">Streaming :</string>
+</resources>
